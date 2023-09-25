@@ -13,3 +13,19 @@ code {
   border-color: #1861ac;
 }
 
+.items-not-ranked {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 1rem;
+}
+
+.unranked-cell {
+    width: 80px;
+    text-align: center;
+    margin-left: 3px
+}
+
+.unranked-cell img {
+    width: 100%;
+    height: 100%;
+}
